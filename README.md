@@ -1,4 +1,4 @@
-## Olá meu nome é Vitor Almeida, sou Desenvolvedor Full Stack!
+## Olá meu nome é Vitor Almeida, sou Desenvolvedor FullStack!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=react)
 
