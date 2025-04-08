@@ -33,4 +33,4 @@ Sou um desenvolvedor FullStack, graduado em Análise e Desenvolvimento de Sistem
 
  ##
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=react)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitor2008&show_icons=true&theme=react)
