@@ -1,6 +1,6 @@
 ## Olá, meu nome é Vitor Almeida! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> 
 
-Sou um desenvolvedor FullStack, graduado em Análise e Desenvolvimento de Sistemas, com sólida experiência na concepção de soluções tecnológicas inovadoras. Ao longo da minha trajetória profissional, atuei no desenvolvimento de fluxos de trabalho automatizados, sistemas web e aplicações personalizadas, sempre com foco na otimização de processos empresariais e na criação de interfaces de usuário funcionais e intuitivas.
+Sou um desenvolvedor Full-Stack, graduado em Análise e Desenvolvimento de Sistemas, com sólida experiência na concepção de soluções tecnológicas inovadoras. Ao longo da minha trajetória profissional, atuei no desenvolvimento de fluxos de trabalho automatizados, sistemas web e aplicações personalizadas, sempre com foco na otimização de processos empresariais e na criação de interfaces de usuário funcionais e intuitivas.
 
 ##
 
